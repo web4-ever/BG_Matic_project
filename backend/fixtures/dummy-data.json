@@ -1,0 +1,146 @@
+[
+  {
+    "model": "tags.tag",
+    "pk": 1,
+    "fields": {
+      "name": "BlackBackground",
+      "created_at": "2021-10-19T16:50:28.940Z",
+      "updated_at": "2021-10-19T16:50:56.413Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 2,
+    "fields": {
+      "name": "TextureBackground",
+      "created_at": "2021-10-19T16:50:42.866Z",
+      "updated_at": "2021-10-19T16:50:42.866Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 3,
+    "fields": {
+      "name": "Office",
+      "created_at": "2021-10-19T16:51:06.587Z",
+      "updated_at": "2021-10-19T16:51:06.587Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 4,
+    "fields": {
+      "name": "Meeting",
+      "created_at": "2021-10-19T16:51:16.876Z",
+      "updated_at": "2021-10-19T16:51:16.876Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 5,
+    "fields": {
+      "name": "Casual",
+      "created_at": "2021-10-19T16:51:25.174Z",
+      "updated_at": "2021-10-19T16:51:25.174Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 6,
+    "fields": {
+      "name": "Forest",
+      "created_at": "2021-10-19T16:51:33.410Z",
+      "updated_at": "2021-10-19T16:51:33.410Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 7,
+    "fields": {
+      "name": "Book",
+      "created_at": "2021-10-19T16:51:43.902Z",
+      "updated_at": "2021-10-19T16:51:43.902Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 8,
+    "fields": {
+      "name": "Ocean",
+      "created_at": "2021-10-19T16:51:54.517Z",
+      "updated_at": "2021-10-19T16:51:54.517Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 9,
+    "fields": {
+      "name": "House",
+      "created_at": "2021-10-19T16:52:01.311Z",
+      "updated_at": "2021-10-19T16:52:01.311Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 10,
+    "fields": {
+      "name": "Car",
+      "created_at": "2021-10-19T16:52:08.939Z",
+      "updated_at": "2021-10-19T16:52:08.939Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 11,
+    "fields": {
+      "name": "Car",
+      "created_at": "2021-10-19T16:52:09.155Z",
+      "updated_at": "2021-10-19T16:52:09.155Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 12,
+    "fields": {
+      "name": "Sunrise",
+      "created_at": "2021-10-19T16:52:19.598Z",
+      "updated_at": "2021-10-19T16:52:19.598Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 13,
+    "fields": {
+      "name": "Coffee",
+      "created_at": "2021-10-19T16:52:33.325Z",
+      "updated_at": "2021-10-19T16:52:33.325Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 14,
+    "fields": {
+      "name": "Space",
+      "created_at": "2021-10-19T16:52:44.974Z",
+      "updated_at": "2021-10-19T16:52:44.975Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 15,
+    "fields": {
+      "name": "Tech",
+      "created_at": "2021-10-19T16:52:58.228Z",
+      "updated_at": "2021-10-19T16:52:58.228Z"
+    }
+  },
+  {
+    "model": "tags.tag",
+    "pk": 17,
+    "fields": {
+      "name": "Room",
+      "created_at": "2021-10-19T16:53:06.408Z",
+      "updated_at": "2021-10-19T17:06:39.863Z"
+    }
+  }
+]
